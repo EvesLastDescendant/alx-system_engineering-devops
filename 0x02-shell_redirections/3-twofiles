@@ -1,0 +1,5 @@
+#!/bin/bash
+cd /..
+cd etc/
+less passwd
+less hosts
