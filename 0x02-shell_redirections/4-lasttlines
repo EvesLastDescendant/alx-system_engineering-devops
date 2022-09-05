@@ -1,4 +1,0 @@
-#!bin/bash
-cd /..
-cd etc/
-less -lt | head
