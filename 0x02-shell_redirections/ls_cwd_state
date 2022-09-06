@@ -1,0 +1,17 @@
+total 52
+drwxr-xr-x 2 root root 260 Sep  6 03:53 .
+drwxr-xr-x 5 root root  91 Sep  5 03:33 ..
+-rwxr--r-- 1 root root  33 Sep  5 03:02 0-hello_world
+-rwxr--r-- 1 root root  26 Sep  5 03:20 1-confused_smiley
+-rwxr--r-- 1 root root  38 Sep  5 05:16 2-hellofile
+-rwxr--r-- 1 root root  53 Sep  6 02:51 3-twofiles
+-rwxr--r-- 1 root root  54 Sep  6 02:53 4-lastlines
+-rwxr--r-- 1 root root  53 Sep  6 02:57 5-firstlines
+-rwxr--r-- 1 root root  50 Sep  5 05:53 6-third_line
+-rwxr--r-- 1 root root  87 Sep  6 03:50 7-file
+-rw-r--r-- 1 root root  37 Sep  6 03:50 7-file~
+-rwxr--r-- 1 root root  56 Sep  6 03:53 8-cwd_state
+-rw-r--r-- 1 root root 814 Sep  5 05:58 iacta
+-rw-r--r-- 1 root root   0 Sep  6 03:53 ls_cwd_state
+-rw-r--r-- 1 root root  31 Sep  5 03:04 README.md
+-rw-r--r-- 1 root root  19 Sep  6 03:33 vimmer
