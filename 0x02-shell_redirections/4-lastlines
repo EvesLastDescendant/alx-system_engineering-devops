@@ -1,4 +1,2 @@
 #!/bin/bash
-cd /..
-cd etc/
-cat passwd | tail 
+cd /..; cd etc/; cat passwd | tail -n 10 
