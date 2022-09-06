@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /..; cd etc/
-cat passwd && cat hosts
+cd /..; cd etc/; cat passwd && cat hosts
